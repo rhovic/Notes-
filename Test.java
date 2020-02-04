@@ -4,9 +4,6 @@ public class Test{
 		System.out.println("SHHHHHHZZZZZZZZZZZZZ");
 	}
 	
-	public void sayHello(){
-		System.out.println("Hi");
-	}
 	
 	public int addNum(int a, int b){
 		retrun a + b;
